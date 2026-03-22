@@ -1,0 +1,22 @@
+# Secrets
+config.json
+twitter_cookies.json
+twitter_session.json
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+*.sqlite
+
+# Journal (private)
+journal.md
+upgrades.md
+
+# Keys
+*.env
+.env

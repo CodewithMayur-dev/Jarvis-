@@ -1,0 +1,23 @@
+{
+  "telegram": {
+    "token": "YOUR_TELEGRAM_BOT_TOKEN"
+  },
+  "gemini_keys": [
+    "YOUR_GEMINI_KEY_1",
+    "YOUR_GEMINI_KEY_2"
+  ],
+  "groq_keys": [
+    "YOUR_GROQ_KEY_1"
+  ],
+  "deepseek_keys": [
+    "YOUR_DEEPSEEK_KEY_1"
+  ],
+  "models": [{"name": "gemini-2.0-flash", "provider": "google", "keys": []}],
+  "owner": {
+    "name": "Your Name",
+    "github": "your-github",
+    "email": "your-email"
+  },
+  "workspace": "/root/jarvis-workspace",
+  "max_retries": 6
+}
